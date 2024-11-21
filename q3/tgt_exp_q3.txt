@@ -1,0 +1,11 @@
+#manager_id,load_date,avg_sal,min_sal,max_sal,sum_sal,first_name,email,salary
+100,11/21/2024 11:28:17,10450,6200,17000,146300,Steven,steven.king@sqltutorial.org,13000.00
+101,11/21/2024 11:28:17,8980,4400,12000,44900,Neena,neena.kochhar@sqltutorial.org,12000.00
+102,11/21/2024 11:28:17,9000,9000,9000,9000,Lex,lex.de haan@sqltutorial.org,9000.00
+103,11/21/2024 11:28:17,4950,4200,6000,19800,Alexander,alexander.hunold@sqltutorial.org,4200.00
+108,11/21/2024 11:28:17,7920,6900,9000,39600,Nancy,nancy.greenberg@sqltutorial.org,6900.00
+114,11/21/2024 11:28:17,2780,2500,3100,13900,Den,den.raphaely@sqltutorial.org,2500.00
+120,11/21/2024 11:28:17,2700,2700,2700,2700,Matthew,matthew.weiss@sqltutorial.org,2700.00
+123,11/21/2024 11:28:17,3950,3900,4000,7900,Shanta,shanta.vollman@sqltutorial.org,3900.00
+201,11/21/2024 11:28:17,6000,6000,6000,6000,Michael,michael.hartstein@sqltutorial.org,6000.00
+205,11/21/2024 11:28:17,8300,8300,8300,8300,Shelley,shelley.higgins@sqltutorial.org,8300.00

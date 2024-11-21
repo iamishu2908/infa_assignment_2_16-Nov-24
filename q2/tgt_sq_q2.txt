@@ -1,0 +1,8 @@
+#country_id|location_id|country_name|state_province|region_name|region_id
+US|1400|United States of America|Texas|Americas|2
+US|1500|United States of America|California|Americas|2
+US|1700|United States of America|Washington|Americas|2
+CA|1800|Canada|Ontario|Americas|2
+UK|2400|United Kingdom||Europe|1
+UK|2500|United Kingdom|Oxford|Europe|1
+DE|2700|Germany|Bavaria|Europe|1
